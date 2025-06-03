@@ -3,5 +3,6 @@ TOUCH DESIGNER EXPLAINATIONS:
 
 
 OPENPROCESSING EXPLANATIONS:
-[Paris Open Processing FINALS.pdf](https://github.com/user-attachments/files/20565361/Paris.Open.Processing.FINALS.pdf)
+[Paris Open Processing FINALS.pdf](https://github.com/user-attachments/files/20565667/Paris.Open.Processing.FINALS.pdf)
+
 
